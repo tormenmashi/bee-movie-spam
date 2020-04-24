@@ -1,15 +1,11 @@
 # bee-movie-script-spam
 Have you ever wanted to spam a group chat with Bee movie script word by word? Now you can
 
-This code requires really basic knowledge with Python
+This code requires really basic knowledge with Python and 'keyboard' library and Python
 
-This code also requires 'keyboard' library and Python
+To install "Keyboard" Library, type [pip install keyboard] 
 
-To install "Keyboard" Library,
-type [pip install keyboard] 
-
-Put the 'Bee.txt' and 'Script.py' in the same directory.
-Run Script.py in a command prompt in the same directory 
+Put the 'Bee.txt' and 'Script.py' in the same directory and run Script.py in a command prompt in the same directory or else you'll get errors
 
 The code has a 3 second delay for you to click on message box of your preffered messaging app before it starts and has a 0.3 seconds delay between each word sent, both of the delays can be modified in the code itself if needed. This code emulates a keyboard which means you can use this code in any app that supports key input.
 

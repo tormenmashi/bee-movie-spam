@@ -12,7 +12,6 @@ The code has a 3 second delay for you to click on message box of your preffered 
 The script might get out of hand and to stop the script you can click on the command prompt where the code is running and hit [Ctrl+C] which will terminate the code. But if you modified the delay a little to much (like I did) its basically impossible to recover without a hard restart.
 
 Delay Value Tested:
-
 [0.5, 0.3] : Useable and managable, Discord will spit out spam warnings though
 
 [0.1] : Still kinda managable but its starting to get out of hand
